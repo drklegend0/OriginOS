@@ -1,8 +1,0 @@
-{
-  "apt": [
-    "fastfetch"
-  ],
-  "flatpak": [
-    "org.mozilla.firefox"
-  ]
-}
